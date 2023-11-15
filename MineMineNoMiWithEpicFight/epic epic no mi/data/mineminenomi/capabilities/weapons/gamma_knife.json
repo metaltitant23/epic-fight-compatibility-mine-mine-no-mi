@@ -2,8 +2,8 @@
     "type": "sword",
     "attributes": {
         "common": {
-            "armor_negation": 0.0,
-                "impact": 0.7,
+            "armor_negation": 5.0,
+                "impact": 0.0,
             "max_strikes": 1
         }
     }
